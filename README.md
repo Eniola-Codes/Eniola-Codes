@@ -10,13 +10,13 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>🦾 I am the 'eminem' of the Tech world </li>
-  <li>💍 Tech my other half</li>
-  <li>✨ Turning ideas into real life products 24/7 </li>
+  <li>🦾 I am the 'eminem' of the Tech world. </li>
+  <li>💍 Tech my other half.</li>
+  <li>✨ Turning ideas into real life products 24/7. </li>
   <li>👨‍💻 I work with <strong>react.js & javascript</strong>.</li>
-  <li>🔭 I’m currently learning <strong>Node.js</strong> for backend </li>
+  <li>🔭 I’m currently learning <strong>Node.js</strong> for backend. </li>
   <li>💬 Ping me about <strong>Web development</strong>.</li>
-<li>🎉 Fun Fact: I'm a Tech content creator on instagram </li>
+<li>🎉 Fun Fact: I'm a Tech content creator on instagram. </li>
 </ul>
 
 <h2> My Tools </h2>
