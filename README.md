@@ -1,10 +1,9 @@
 
-<h2>Hey Fam👋❤️, I'm Eniola Odunmbaku <span>(Code-redeX)</span></h2>
-<p>I am a Frontend Web Developer & UX Designer</p>
+<h2>Hey Fam👋❤️, I'm Eniola Odunmbaku <span>(Eniola Codes)</span></h2>
+<p>I am a Frontend Web Developer</p>
 <p><a href="https://www.linkedin.com/in/eni-ola/"><img src="https://img.shields.io/badge/-Eniola%20Odunmbaku%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
   <a href="https://twitter.com/EniolaCodes/"><img src="https://img.shields.io/badge/-_Code_Redex-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-  <a href="https://www.instagram.com/code_redex/"><img src="https://img.shields.io/badge/-Eniola--redex-FFFFFF?style=plastic&amp;labelColor=FFF&amp;logo=Instagram&amp;link=https://dev.to/dev180memes" alt="DevTo Badge"></a> 
-  <a href="mailto:coderedexonline@gmail.com"><img src="https://img.shields.io/badge/-Code%20redex%20-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
+  <a href="mailto:eniolacodes1@gmail.com"><img src="https://img.shields.io/badge/-Code%20redex%20-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
 <p> Thanks for visiting my Github Profile❤️ </p>
 
 <h2>⚡️ About Me</h2>
@@ -14,9 +13,9 @@
   <li>💍 Tech my other half.</li>
   <li>✨ Turning ideas into real life products 24/7. </li>
   <li>👨‍💻 I work with <strong>react.js & javascript</strong>.</li>
-  <li>🔭 I’m currently learning <strong>Node.js</strong> for backend. </li>
-  <li>💬 Ping me about <strong>Web development</strong>.</li>
-<li>🎉 Fun Fact: I'm a Tech content creator on instagram. </li>
+  <li>🔭 I’m currently learning <strong>Next.js</strong>. </li>
+  <li>💬 Ping me about anything<strong>Web development</strong>.</li>
+<li>🎉 Fun Fact: I create and share awesome content on twitter </li>
 </ul>
 
 <h2> My Tools </h2>
@@ -36,6 +35,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="40" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/netlify-original.svg" alt="Heroku" height="40" width="40"/>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Code-redeX&show_icons=true&hide_border=true" alt="Stats" />
