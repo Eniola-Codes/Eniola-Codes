@@ -2,7 +2,7 @@
 <h2>Hey Fam👋❤️, I'm Eniola Odunmbaku <span>(Code-redeX)</span></h2>
 <p>I am a Frontend Web Developer & UX Designer</p>
 <p><a href="https://www.linkedin.com/in/eni-ola/"><img src="https://img.shields.io/badge/-Eniola%20Odunmbaku%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
-  <a href="https://twitter.com/_code_redex/"><img src="https://img.shields.io/badge/-_Code_Redex-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+  <a href="https://twitter.com/EniolaCodes/"><img src="https://img.shields.io/badge/-_Code_Redex-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
   <a href="https://www.instagram.com/code_redex/"><img src="https://img.shields.io/badge/-Eniola--redex-FFFFFF?style=plastic&amp;labelColor=FFF&amp;logo=Instagram&amp;link=https://dev.to/dev180memes" alt="DevTo Badge"></a> 
   <a href="mailto:coderedexonline@gmail.com"><img src="https://img.shields.io/badge/-Code%20redex%20-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
 <p> Thanks for visiting my Github Profile❤️ </p>
