@@ -2,8 +2,8 @@
 <h2>Hey Fam👋❤️, I'm Eniola Odunmbaku <span>(Eniola Codes)</span></h2>
 <p>I am a Frontend Web Developer</p>
 <p><a href="https://www.linkedin.com/in/eni-ola/"><img src="https://img.shields.io/badge/-Eniola%20Odunmbaku%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
-  <a href="https://twitter.com/EniolaCodes/"><img src="https://img.shields.io/badge/-_Code_Redex-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-  <a href="mailto:eniolacodes1@gmail.com"><img src="https://img.shields.io/badge/-Code%20redex%20-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
+  <a href="https://twitter.com/EniolaCodes/"><img src="https://img.shields.io/badge/-EniolaCodes-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+  <a href="mailto:eniolacodes1@gmail.com"><img src="https://img.shields.io/badge/-Eniola%20Codes-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
 <p> Thanks for visiting my Github Profile❤️ </p>
 
 <h2>⚡️ About Me</h2>
