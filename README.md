@@ -35,4 +35,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="40" width="40"/>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Code-redeX&show_icons=true&hide_border=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eniola-Codes&show_icons=true&hide_border=true" alt="Stats" />
