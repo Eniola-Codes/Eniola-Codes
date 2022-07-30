@@ -15,7 +15,7 @@
   <li>👨‍💻 I work with <strong>react.js & javascript</strong>.</li>
   <li>🔭 I’m currently learning <strong>Next.js</strong>. </li>
   <li>💬 Ping me about anything<strong>Web development</strong>.</li>
-<li>🎉 Fun Fact: I create and share awesome content on twitter </li>
+<li>🎉 Fun Fact: I share awesome content on twitter & Linkedin</li>
 </ul>
 
 <h2> My Tools </h2>
