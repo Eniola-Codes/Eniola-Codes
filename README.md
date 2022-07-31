@@ -14,7 +14,7 @@
   <li>✨ Turning ideas into real life products 24/7. </li>
   <li>👨‍💻 I work with <strong>react.js & javascript</strong>.</li>
   <li>🔭 I’m currently learning <strong>Next.js</strong>. </li>
-  <li>💬 Ping me about anything<strong>Web development</strong>.</li>
+  <li>💬 Ping me about anything <strong>Web development</strong>.</li>
 <li>🎉 Fun Fact: I share awesome content on twitter & Linkedin</li>
 </ul>
 
