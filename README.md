@@ -10,7 +10,6 @@
 
 <ul>
   <li>🦾 I am the 'eminem' of the Tech world. </li>
-  <li>💍 Tech my other half.</li>
   <li>✨ Turning ideas into real life products 24/7. </li>
   <li>👨‍💻 I work with <strong>react.js & javascript</strong>.</li>
   <li>🔭 I’m currently learning <strong>Next.js</strong>. </li>
