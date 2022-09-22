@@ -7,11 +7,10 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>🦾 I am the 'eminem' of the Tech world. </li>
-  <li>✨ Turning ideas into real life products 24/7. </li>
-  <li>👨‍💻 I work with <strong>react.js & javascript</strong>.</li>
-  <li>🔭 I’m currently learning <strong>Next.js</strong>. </li>
-  <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
+  <li>✨ Turning ideas into real life products. </li>
+  <li>👨‍💻 I work with <strongjavascript, reactJs & NextJs</strong>.</li>
+  <li>🔭 I’m currently learning <strong>Typescript</strong>. </li>
+  <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
 <li>🎉 Fun Fact : I share Tech content on Twitter & Linkedin</li>
 </ul>
 
