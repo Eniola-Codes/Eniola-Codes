@@ -1,5 +1,5 @@
 
-<h2>Hey Fam👋❤️, I'm Eniola Odunmbaku <span>(Eniola Codes)</span></h2>
+<h2>Hey Fam👋❤️, I'm Eniola Odunmbaku</h2>
 <p>I am a Frontend Web Developer</p>
 
 
