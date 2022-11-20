@@ -8,7 +8,7 @@
 
 <ul>
   <li>✨ Turning ideas into real life products. </li>
-  <li>👨‍💻 I work with <strong>javascript, reactJs & NextJs</strong>.</li>
+  <li>👨‍💻 I work with <strong>javascript, Typescript, reactJs & NextJs</strong>.</li>
   <li>🔭 I’m currently learning <strong>Typescript</strong>. </li>
   <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
 <li>🎉 Fun Fact : I share Tech content on Twitter & Linkedin</li>
