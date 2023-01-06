@@ -11,7 +11,7 @@
   <li>👨‍💻 I work with <strong>Javascript, Typescript, ReactJs & NextJs</strong>.</li>
   <li>🔭 I’m currently learning <strong>advanced Typescript</strong>. </li>
   <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
-  <li>I am open to collaborations on project and ideas</li>
+  <li>🤝 I am open to collaborations on project and ideas</li>
 </ul>
 
 <h2>Reach me</h3>
@@ -42,7 +42,7 @@
 </p>
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eniola-Codes&show_icons=true&locale=en&layout=compact" alt="Eniola-Codes" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eniola-Codes&show_icons=true&locale=en&layout=compact" alt="Eniola-Codes" /></p>
 <h2> My Stats </h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eniola-Codes&" alt="Eniola-Codes" /></p>
 
