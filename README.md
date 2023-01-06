@@ -1,5 +1,5 @@
 
-<h2>Hey Fam👋❤️, I'm Eniola Odunmbaku</h2>
+<h2>Hey👋, I'm Eniola Odunmbaku</h2>
 <p>I am a Frontend Web Developer</p>
 
 
@@ -7,14 +7,14 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>✨ Turning ideas into real life products. </li>
-  <li>👨‍💻 I work with <strong>javascript, typescript, reactJs & NextJs</strong>.</li>
-  <li>🔭 I’m currently learning <strong>advanced javascript</strong>. </li>
+<!--   <li>✨ Turning ideas into real life products. </li> -->
+  <li>👨‍💻 I work with <strong>Javascript, Typescript, ReactJs & NextJs</strong>.</li>
+  <li>🔭 I’m currently learning <strong>advanced Typescript</strong>. </li>
   <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
-<li>🎉 Fun Fact : I share Tech content on Twitter & Linkedin</li>
+  <li>I am open to collaborations on project and ideas</li>
 </ul>
 
-<h2>Connect with me</h3>
+<h2>Reach me</h3>
 <p><a href="https://www.linkedin.com/in/eni-ola/"><img src="https://img.shields.io/badge/-Eniola%20Odunmbaku%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
   <a href="https://twitter.com/EniolaCodes/"><img src="https://img.shields.io/badge/-EniolaCodes-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
   <a href="mailto:eniolacodes1@gmail.com"><img src="https://img.shields.io/badge/-Eniola%20Codes-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
