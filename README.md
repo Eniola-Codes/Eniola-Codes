@@ -4,7 +4,7 @@
 
 
 
-<h2>⚡️ About Me</h2>
+<h2>About Me</h2>
 
 <ul>
 <!--   <li>✨ Turning ideas into real life products. </li> -->
