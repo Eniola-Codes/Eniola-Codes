@@ -17,7 +17,7 @@
 <h2>Reach me</h3>
 <p><a href="https://www.linkedin.com/in/eni-ola/"><img src="https://img.shields.io/badge/-Eniola%20Odunmbaku%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
   <a href="https://twitter.com/EniolaCodes/"><img src="https://img.shields.io/badge/-EniolaCodes-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-  <a href="mailto:eniolacodes1@gmail.com"><img src="https://img.shields.io/badge/-Eniola%20Codes-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
+  <a href="mailto:eniolacodes1@gmail.com"><img src="https://img.shields.io/badge/-Eniola%20Codes-fff?style=plastic&amp;labelColor=fff&amp;logo=mail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
 
 
 <h2> My Tools </h2>
@@ -47,7 +47,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eniola-Codes&" alt="Eniola-Codes" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Eniola-Codes&show_icons=true&hide_border=true" alt="Stats" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=Eniola-Codes&show_icons=true&hide_border=true" alt="Stats" /></p> -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eniola-Codes&show_icons=true&locale=en&layout=compact" alt="Eniola-Codes" /></p>
  -->
