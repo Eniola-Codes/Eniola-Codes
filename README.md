@@ -7,10 +7,10 @@
 <h2>About Me</h2>
 
 <ul>
-<!--   <li>✨ Turning ideas into real life products. </li> -->
+  <li>✨ Turning ideas into real life products. </li> 
   <li>👨‍💻 I work with <strong>Javascript, Typescript, ReactJs & NextJs</strong>.</li>
   <li>🔭 I’m currently learning <strong>advanced Typescript</strong>. </li>
-  <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
+  <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
   <li>🤝 I am open to collaborations on project and ideas</li>
 </ul>
 
@@ -49,7 +49,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Eniola-Codes&" alt="Eniola-Codes" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Eniola-Codes&show_icons=true&hide_border=true" alt="Stats" /></p>
-<br />
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eniola-Codes&show_icons=true&locale=en&layout=compact" alt="Eniola-Codes" /></p> -->
  
