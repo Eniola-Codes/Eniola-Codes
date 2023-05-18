@@ -52,4 +52,4 @@
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eniola-Codes&show_icons=true&locale=en&layout=compact" alt="Eniola-Codes" /></p> -->
  
-<p align="left"> Thanks for visiting my Github Profile❤️ </p>
+<p style="color:blue;font-size:46px;display:block;"> Thanks for visiting my Github Profile❤️ </p>
