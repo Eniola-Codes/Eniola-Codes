@@ -45,9 +45,9 @@
 
 <h2> My Stats </h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eniola-Codes&" alt="Eniola-Codes" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Eniola-Codes&" alt="Eniola-Codes" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Eniola-Codes&show_icons=true&hide_border=true" alt="Stats" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Eniola-Codes&show_icons=true&hide_border=true" alt="Stats" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eniola-Codes&show_icons=true&locale=en&layout=compact" alt="Eniola-Codes" /></p>
  
