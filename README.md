@@ -9,9 +9,9 @@
 <ul>
   <li>✨ Turning ideas into real life products. </li> 
   <li>👨‍💻 I work with <strong>Javascript, Typescript, ReactJs & NextJs</strong>.</li>
-  <li>🔭 I’m currently learning <strong>advanced Typescript</strong>. </li>
+  <li>🔭 I’m currently learning <strong>Three.js</strong>. </li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
-  <li>🤝 I am open to collaborations on project and ideas</li>
+  <li>🤝 I am open to collaborations and jobs on projects/ideas</li>
 </ul>
 
 <h2>Reach me</h3>
