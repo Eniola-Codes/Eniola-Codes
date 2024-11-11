@@ -28,7 +28,13 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Github" height="40" width="40"/> <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="Github" height="40" width="40"/> <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="Github" height="40" width="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Github" height="40" width="40"/> 
+ <img src="https://icon.icepanel.io/Technology/svg/Express.svg" alt="Github" height="40" width="40"/>
+    <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="Github" height="40" width="40"/> 
+  <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="Github" height="40" width="40"/>
+    <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="Github" height="40" width="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/AWS.svg" alt="Github" height="40" width="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Vercel.svg" alt="Github" height="40" width="40"/>
   </p>
 
 
