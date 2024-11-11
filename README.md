@@ -1,17 +1,15 @@
 
-<h2>Hey👋, I'm Eniola Odunmbaku</h2>
-<p>I am a Frontend Web Developer</p>
+<h2>Hello there! I'm Eniola Odunmbaku</h2>
+<p>Fullstack Developer</p>
 
 
 
 <h2>About Me</h2>
-
 <ul>
-  <li>✨ Turning ideas into real life products. </li> 
-  <li>👨‍💻 I work with <strong>Javascript, Typescript, ReactJs & NextJs</strong>.</li>
-  <li>🔭 I’m currently learning <strong>Three.js</strong>. </li>
-  <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
-  <li>🤝 I am open to collaborations and jobs on projects/ideas</li>
+  <li>📌 Product-oriented and focused on building scalable software.</li> 
+  <li>👨‍💻 Core technologies are <strong>Javascript, Typescript, ReactJs, NextJs & NodeJs</strong>.</li>
+  <li>🔭 Currently learning <strong>Three.Js</strong>. </li>
+  <li>🤝 Open to collaborations and roles on projects</li>
 </ul>
 
 <h2>Reach me</h3>
@@ -22,25 +20,16 @@
 
 <h2> My Tools </h2>
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40"/> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" ait="React" height="40" width="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="40" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"  alt="CodePen" height="40" width="40"/>
-        
-  
-</p>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Github" height="40" width="40"/> <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="Github" height="40" width="40"/> <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="Github" height="40" width="40"/>
+  </p>
 
 
 
