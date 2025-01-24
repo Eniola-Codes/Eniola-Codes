@@ -7,9 +7,8 @@
 <h2>About Me</h2>
 <ul>
   <li>📌 Product-oriented & focused on building scalable software.</li> 
-  <li>👨‍💻 Core technologies are <strong>Javascript, Typescript, ReactJs, NextJs & NodeJs</strong>.</li>
-  <li>🔭 Currently learning <strong>WebGl & Three.Js</strong>. </li>
-  <li>🤝 Open to collaborations & roles on projects</li>
+  <li>👨‍💻 Core technologies are <strong>Typescript, ReactJs, NextJs, NodeJs, Express.js, Laravel, and other modern web technologies.</strong>.</li>
+  <li>🤝 Open to collaborations & projects</li>
 </ul>
 
 <h2>Reach me</h3>
