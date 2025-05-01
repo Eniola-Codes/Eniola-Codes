@@ -1,13 +1,13 @@
 
-<h2>👋 I'm Eniola Odunmbaku</h2>
-<p>I'm a software engineer experienced in developing robust software applications and solving challenging problems</p>
+<h2>Hi👋, I'm Eniola Odunmbaku</h2>
+<p>I'm a fullstack engineer experienced in developing robust software applications and solving challenging problems</p>
 
 <h2>🔧 Skills & Tech Stack</h2>
 <ul>
-  <li>📌 I care about clean code, testing, maintainability and scalability — I often use Jest, Cypress, and React Testing Library.</li>
-  <li>👨‍💻 My core technologies are TypeScript, React, and Node, along with related frameworks such as Next, Express, and Nest.</li>
-  <li>📦 I work with Docker, Kubernetes, AWS, observability tools (e.g Grafana, Sentry etc.) and CI/CD pipelines.</li>
-  <li>⚙️ I build no-code/low-code automations using n8n, connecting APIs, databases, AI models and apps to streamline operations.</li>
+  <li>📌 I care about clean code, testing, maintainability and scalability — I often use Jest, Cypress, and React Testing Library.</li><br />
+  <li>👨‍💻 My core technologies are TypeScript, React, and Node, along with related frameworks such as Next, Express, and Nest.</li><br />
+  <li>📦 I work with Docker, Kubernetes, AWS, observability tools (e.g Grafana, Sentry etc.) and CI/CD pipelines.</li><br />
+  <li>⚙️ I build no-code/low-code automations using n8n, connecting APIs, databases, AI models and apps to streamline operations.</li><br />
   <li>🎯 I am a hungry and fast learner, constantly exploring new tools and adding to my skillset.</li>
 </ul>
 
