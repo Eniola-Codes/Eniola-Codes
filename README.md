@@ -1,17 +1,17 @@
 
-<h2>Hello there! I'm Eniola Odunmbaku</h2>
+<h2>I'm Eniola Odunmbaku</h2>
 <p>Fullstack Developer</p>
 
 
 
-<h2>About Me</h2>
+<h2>🔧 Skills & Tech Stack</h2>
 <ul>
-  <li>📌 Product-oriented & focused on building scalable software.</li> 
-  <li>👨‍💻 Core technologies are <strong>Typescript, ReactJs, NextJs, NodeJs, Express.js, Laravel, and other modern web technologies.</strong>.</li>
-  <li>🤝 Open to collaborations & projects</li>
+  <li>📌 I care about clean code, testing, maintainability and scalability — I often use Jest, Cypress, and React Testing Library.</li>
+  <li>👨‍💻 My core technologies are TypeScript, React, and Node, along with related frameworks such as Next, Express, and Nest.</li>
+  <li>📦 I work with Docker, Kubernetes, AWS, observability tools (e.g Grafana, Sentry etc.) and CI/CD pipelines.</li>
 </ul>
 
-<h2>Reach me</h3>
+<h2>💬 Let’s Connect</h3>
 <p><a href="https://www.linkedin.com/in/eni-ola/"><img src="https://img.shields.io/badge/-Eniola%20Odunmbaku%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
   <a href="https://twitter.com/EniolaCodes/"><img src="https://img.shields.io/badge/-EniolaCodes-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
   <a href="mailto:eniolacodes1@gmail.com"><img src="https://img.shields.io/badge/-Eniola%20Codes-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a></p>
