@@ -1,5 +1,5 @@
 
-<h2>👋I'm Eniola Odunmbaku</h2>
+<h2>👋 I'm Eniola Odunmbaku</h2>
 <p>I'm a software engineer experienced in developing robust software applications and solving challenging problems</p>
 
 <h2>🔧 Skills & Tech Stack</h2>
@@ -12,8 +12,9 @@
 </ul>
 
 <h2>💬 Let’s Connect</h3>
-<p>You can reach out to me on <a href="https://www.linkedin.com/in/eni-ola/">LinkedIn</a> <a href="https://x.com/EniolaCodes/">X (twitter)</a> or send an email to <a href="mailto:hello@eniola.codes">hello@eniola.codes</a></p>
+<p>You can reach out to me on <a href="https://www.linkedin.com/in/eni-ola/">LinkedIn</a>, <a href="https://x.com/EniolaCodes/">X (twitter)</a> or send an email to <a href="mailto:hello@eniola.codes">hello@eniola.codes</a></p>
 
+<p > Happy coding! </p>
 <!--<a href="https://www.linkedin.com/in/eni-ola/"><img src="https://img.shields.io/badge/-Eniola%20Odunmbaku%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
   <a href="https://twitter.com/EniolaCodes/"><img src="https://img.shields.io/badge/-EniolaCodes-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
   <a href="mailto:eniolacodes1@gmail.com"><img src="https://img.shields.io/badge/-Eniola%20Codes-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a> -->
