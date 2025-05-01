@@ -7,7 +7,7 @@
   <li>📌 I care about clean code, testing, maintainability and scalability — I often use Jest, Cypress, and React Testing Library.</li>
   <li>👨‍💻 My core technologies are TypeScript, React, and Node, along with related frameworks such as Next, Express, and Nest.</li>
   <li>📦 I work with Docker, Kubernetes, AWS, observability tools (e.g Grafana, Sentry etc.) and CI/CD pipelines.</li>
-  <li>⚙️ I build no-code/low-code automations using n8n, connecting APIs, databases, Ai models and apps to streamline operations.</li>
+  <li>⚙️ I build no-code/low-code automations using n8n, connecting APIs, databases, AI models and apps to streamline operations.</li>
   <li>🎯 I am a hungry and fast learner, constantly exploring new tools and adding to my skillset.</li>
 </ul>
 
