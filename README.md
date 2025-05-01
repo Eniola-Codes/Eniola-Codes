@@ -1,8 +1,6 @@
 
-<h2>I'm Eniola Odunmbaku</h2>
-<p>Fullstack Developer</p>
-
-
+<h2>👋I'm Eniola Odunmbaku</h2>
+<p>I'm a software engineer experienced in developing robust software applications and solving challenging problems</p>
 
 <h2>🔧 Skills & Tech Stack</h2>
 <ul>
