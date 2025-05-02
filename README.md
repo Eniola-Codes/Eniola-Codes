@@ -1,6 +1,6 @@
 
 <h2>Hi👋, I'm Eniola Odunmbaku</h2>
-<p>I'm a fullstack engineer experienced in developing robust software applications and solving challenging problems</p>
+<p>I'm a fullstack engineer experienced in developing robust software applications and solving challenging problems</p><br />
 
 <h2>🔧 Skills & Tech Stack</h2>
 <ul>
@@ -9,7 +9,7 @@
   <li>📦 I work with Docker, Kubernetes, AWS, observability tools (e.g Grafana, Sentry etc.) and CI/CD pipelines.</li><br />
   <li>⚙️ I build no-code/low-code automations using n8n, connecting APIs, databases, AI models and apps to streamline operations.</li><br />
   <li>🎯 I am a hungry and fast learner, constantly exploring new tools and adding to my skillset.</li>
-</ul>
+</ul><br />
 
 <h2>💬 Let’s Connect</h3>
 <p>You can reach out to me on <a href="https://www.linkedin.com/in/eni-ola/">LinkedIn</a>, <a href="https://x.com/EniolaCodes/">X (twitter)</a> or send an email to <a href="mailto:hello@eniola.codes">hello@eniola.codes</a></p>
