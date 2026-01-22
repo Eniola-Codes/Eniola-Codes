@@ -4,7 +4,7 @@
 
 <h2>🔧 Skills & Tech Stack</h2>
 <ul>
-  <li>📌 I care about clean code, testing, maintainability and scalability — I often use Jest, Cypress, and React Testing Library.</li><br />
+  <li>📌 I care about clean code, testing, maintainability and scalability. I often use Vitest, Jest, Cypress, and React Testing Library.</li><br />
   <li>👨‍💻 My core technologies are TypeScript, React, and Node, along with related frameworks such as Next, Express, and Nest.</li><br />
   <li>📦 I work with Docker, Kubernetes, AWS, observability tools (e.g Grafana, Sentry etc.) and CI/CD pipelines.</li><br />
   <li>⚙️ I build no-code/low-code automations using n8n, connecting APIs, databases, AI models and apps to streamline operations.</li><br />
