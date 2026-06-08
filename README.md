@@ -1,6 +1,6 @@
 
 <h2>I'm Eniola Odunmbaku</h2>
-<p>Fullstack engineer experienced in developing scalable software applications</p>
+<p>Fullstack engineer experienced in developing scalable software applications and AI-powered automation pipelines</p>
 
 <h2>🔧 Skills & Tech Stack</h2>
 <ul>
